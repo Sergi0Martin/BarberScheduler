@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberScheduler.API", "BarberScheduler.API\BarberScheduler.API.csproj", "{302E5719-0E8D-4F93-BF76-91642707FF3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.API", "BarberScheduler.API\BarberScheduler.API.csproj", "{302E5719-0E8D-4F93-BF76-91642707FF3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.Reads", "BarberScheduler.Reads\BarberScheduler.Reads.csproj", "{CDD51C8A-CEE4-4CFA-A53F-16437CDFC230}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.Infrastructure", "BarberScheduler.Infrastructure\BarberScheduler.Infrastructure.csproj", "{BA2DF639-7BE9-4ECF-A26A-5FA5B3A840F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.Domain", "BarberScheduler.Domain\BarberScheduler.Domain.csproj", "{FE30F9BC-0805-4460-B371-702292EBEA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberScheduler.Application", "BarberScheduler.Application\BarberScheduler.Application.csproj", "{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD51C8A-CEE4-4CFA-A53F-16437CDFC230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD51C8A-CEE4-4CFA-A53F-16437CDFC230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD51C8A-CEE4-4CFA-A53F-16437CDFC230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD51C8A-CEE4-4CFA-A53F-16437CDFC230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2DF639-7BE9-4ECF-A26A-5FA5B3A840F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2DF639-7BE9-4ECF-A26A-5FA5B3A840F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2DF639-7BE9-4ECF-A26A-5FA5B3A840F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2DF639-7BE9-4ECF-A26A-5FA5B3A840F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE30F9BC-0805-4460-B371-702292EBEA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE30F9BC-0805-4460-B371-702292EBEA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE30F9BC-0805-4460-B371-702292EBEA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE30F9BC-0805-4460-B371-702292EBEA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
