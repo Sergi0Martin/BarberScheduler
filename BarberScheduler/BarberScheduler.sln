@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberScheduler.API", "BarberScheduler.API\BarberScheduler.API.csproj", "{299DE04A-9F0B-4A66-BC46-7B26740F74A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberScheduler.API", "BarberScheduler.API\BarberScheduler.API.csproj", "{302E5719-0E8D-4F93-BF76-91642707FF3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{299DE04A-9F0B-4A66-BC46-7B26740F74A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{299DE04A-9F0B-4A66-BC46-7B26740F74A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{299DE04A-9F0B-4A66-BC46-7B26740F74A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{299DE04A-9F0B-4A66-BC46-7B26740F74A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302E5719-0E8D-4F93-BF76-91642707FF3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4ED6943F-B703-4BF4-A914-357CA60A0404}
+		SolutionGuid = {907BB496-155F-4881-94AE-9D7A4BC80026}
 	EndGlobalSection
 EndGlobal
