@@ -1,6 +1,5 @@
 # BarberScheduler
- This is a experimental solution for schedule appointments on Barbers.
-
+ This is a experimental solution.
 
 ### Libraries used in this repository:
 - MediatR
