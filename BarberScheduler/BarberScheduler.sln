@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.Infrastruct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.Domain", "BarberScheduler.Domain\BarberScheduler.Domain.csproj", "{FE30F9BC-0805-4460-B371-702292EBEA93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarberScheduler.Application", "BarberScheduler.Application\BarberScheduler.Application.csproj", "{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarberScheduler.Application", "BarberScheduler.Application\BarberScheduler.Application.csproj", "{BDE2E287-45B6-4288-A0F6-E0D7B29BD016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
